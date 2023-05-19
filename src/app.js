@@ -2,7 +2,7 @@
 // Author: Vitovszki Tamás
 // Copyright: 2023, Vitovszki Tamás
 // Group: Szoft 1/2 N
-// Date: 2023-05-18
+// Date: 2023-05-19
 // Github: https://github.com/Tomasman05/
 // Licenc: GNU GPL
 const doc={
