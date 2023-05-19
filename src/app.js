@@ -1,4 +1,4 @@
-// File: index.html
+// File: app.js
 // Author: Vitovszki Tamás
 // Copyright: 2023, Vitovszki Tamás
 // Group: Szoft 1/2 N
@@ -19,10 +19,10 @@ window.addEventListener("load", ()=>{
 })
 
 function init(){
-    getBikes()
+    getShips()
 }
 
-function getBikes(){
+function getShips(){
     let endpoint = "ships"
     let url = state.host+endpoint
     fetch(url)
